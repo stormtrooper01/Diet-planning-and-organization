@@ -1,0 +1,2 @@
+This app is made to help our users start eating healty and grow new habits. Aslo, it helps to control and optimise meal plan, schedule recipies, track and adjust consumed calories.
+Moreover it helps you to calculate your BMI - Body Mass Index and choose eating plan just for your needs. 

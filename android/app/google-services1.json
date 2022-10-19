@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "279710526152",
+    "project_id": "recipies-57f17",
+    "storage_bucket": "recipies-57f17.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:279710526152:android:793143da4874510aed93fd",
+        "android_client_info": {
+          "package_name": "com.example.new_meal_planner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "279710526152-lj74os58pl3m4odk33pj1upqdk7dfeqb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWKTHJ-5-83q17PlRbI1A7Xy303Pbp2oA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "279710526152-lj74os58pl3m4odk33pj1upqdk7dfeqb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
